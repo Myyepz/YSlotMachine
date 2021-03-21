@@ -1,0 +1,2 @@
+# YSlotMachine
+Example
